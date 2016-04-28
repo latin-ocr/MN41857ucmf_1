@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./MN41857ucmf_1_0020.png"; bbox 0 0 2178 3556; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 337 1537 899 1619">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 337 1537 899 1619">
+     <span class='ocr_line' id='line_1_1' title="bbox 337 1537 899 1571; baseline 0 -6"><span class='ocrx_word' id='word_1_1' title='bbox 337 1538 380 1565; x_wconf 66' lang='lat' dir='ltr'>Haec</span> <span class='ocrx_word' id='word_1_2' title='bbox 389 1537 480 1565; x_wconf 62' lang='lat' dir='ltr'>d&#39;wsertatio</span> <span class='ocrx_word' id='word_1_3' title='bbox 489 1537 563 1565; x_wconf 71' lang='lat' dir='ltr'><strong>societati</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 571 1537 674 1565; x_wconf 73' lang='lat' dir='ltr'><strong>scientiarum</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 682 1538 764 1571; x_wconf 76' lang='lat' dir='ltr'>proposita</span> <span class='ocrx_word' id='word_1_6' title='bbox 773 1539 797 1565; x_wconf 76' lang='lat' dir='ltr'>est</span> <span class='ocrx_word' id='word_1_7' title='bbox 805 1537 822 1564; x_wconf 84' lang='lat' dir='ltr'>in</span> <span class='ocrx_word' id='word_1_8' title='bbox 830 1539 899 1565; x_wconf 77' lang='lat' dir='ltr'>sessione</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 468 1590 761 1619; baseline 0.007 -2"><span class='ocrx_word' id='word_1_9' title='bbox 468 1598 482 1618; x_wconf 82' lang='lat' dir='ltr'>a.</span> <span class='ocrx_word' id='word_1_10' title='bbox 491 1590 505 1617; x_wconf 85' lang='lat' dir='ltr'>d.</span> <span class='ocrx_word' id='word_1_11' title='bbox 513 1590 540 1617; x_wconf 85' lang='lat'>111.</span> <span class='ocrx_word' id='word_1_12' title='bbox 549 1592 571 1618; x_wconf 85' lang='lat' dir='ltr'>Id.</span> <span class='ocrx_word' id='word_1_13' title='bbox 580 1592 590 1616; x_wconf 81' lang='lat' dir='ltr'><strong>J</strong></span> <span class='ocrx_word' id='word_1_14' title='bbox 592 1600 616 1618; x_wconf 84' lang='lat' dir='ltr'>an.</span> <span class='ocrx_word' id='word_1_15' title='bbox 624 1591 761 1619; x_wconf 78' lang='lat' dir='ltr'>MDOGGXGVHL</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 0 0 1094 3556">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 0 0 1094 3556">
+     <span class='ocr_line' id='line_1_3' title="bbox 0 0 1094 3556; baseline 0 0"><span class='ocrx_word' id='word_1_16' title='bbox 0 0 1094 3556; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
